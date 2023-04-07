@@ -1,0 +1,6 @@
+pink
+yellow
+white
+blue
+red
+black
